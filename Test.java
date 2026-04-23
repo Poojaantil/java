@@ -1,5 +1,3 @@
-hi 
-
 public class Test {
 
     // Addition
